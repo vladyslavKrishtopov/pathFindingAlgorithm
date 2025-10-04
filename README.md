@@ -1,4 +1,5 @@
 # Pathfinding Algorithm
+![Status](https://img.shields.io/badge/status-in%20progress-yellow)
 
 ## General Description
 
@@ -20,7 +21,7 @@ This project is a great opportunity to practice designing, implementing, and vis
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/pathfinding-visualizer.git
+   git clone https://github.com/vladyslavKrishtopov/pathFindingAlgorithm.git
    ```
 
 2. Install dependencies:
@@ -32,7 +33,7 @@ This project is a great opportunity to practice designing, implementing, and vis
     ```bash
     python main.py
     ```
-    
+
 ## Usage
 
 1. Choose a start and end point on the grid.
